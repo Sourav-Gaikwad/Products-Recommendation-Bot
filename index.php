@@ -1,6 +1,6 @@
 <?
 function operate($param1, $param2) {
-    if (($param1 == 50000) && ($param2 == 10000)) {
+    if (($param1 == 5000) && ($param2 == 10000)) {
       return "Hey, Redmi 4A can be a good choice for you. It is available on sale by Flipkart. Here is a link for it. \n https://www.flipkart.com/redmi-4a-gold-32-gb/p/itmex4f4zsykyh6g?gclid=CjwKCAjwmefOBRBJEiwAf7DstMccDAA4y8IL_zcgKbeBIJfiYPCF6qc66blaCsXdDM8g3SIRediimxoCs0IQAvD_BwE&pid=MOBEWV2NK5KU2D6N&tgi=sem,1,G,3856208402,{network},{ifsearch:search},{ifcontent:content},{creative},{adposition},{matchtype},{keyword},{device},{devicemodel},{ifmobile:mobile},{placement},{target},{aceid},{param1},{param2}&semcmpid=sem_3856208402_mobiles_redmi4a_goog&s_kwcid=AL!739!3!221863692620!e!!!!redmi%204a&ef_id=WdZSwgAABKLbd4Oa:20171009045909:s" . "\n It is also available on sale by Amazon. Here is a link for it. \n https://www.amazon.in/s/?ie=UTF8&keywords=amazon+4a+mobile&tag=googinhydr1-21&index=aps&hvadid=213875163077&hvpos=1t2&hvnetw=g&hvrand=1728756147092385181&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-329893241182&ref=pd_sl_1kde0lhvg9_b" . "\n Be prepared on time on the day of the sale to grab it quicky..!! ";
     }
     if (($param1 == 10000) && ($param2 == 15000)) {
