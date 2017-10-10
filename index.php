@@ -131,7 +131,13 @@ function operate($param1, $param2) {
       \n
       \n\n\n
       \n
-      \nIt is also available on sale by Amazon. Here is a link for it. \n https://www.amazon.in/s/?ie=UTF8&keywords=amazon+4a+mobile&tag=googinhydr1-21&index=aps&hvadid=213875163077&hvpos=1t2&hvnetw=g&hvrand=1728756147092385181&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-329893241182&ref=pd_sl_1kde0lhvg9_b" . "\n Be prepared on time on the day of the sale to grab it quicky..!! ";
+      \nIt is also available on sale by Amazon. Here is a link for it. \n https://www.amazon.in/s/?ie=UTF8&keywords=amazon+4a+mobile&tag=googinhydr1-21&index=aps&hvadid=213875163077&hvpos=1t2&hvnetw=g&hvrand=1728756147092385181&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-329893241182&ref=pd_sl_1kde0lhvg9_b" . "\n 
+      
+      
+      \n\n
+      \n\n
+      
+      Be prepared on time on the day of the sale to grab it quicky..!! ";
     }
     if (($param1 == 10000) && ($param2 == 15000)) {
       return "Hey, Moto G5 S Plus can be a good choice for you. It is available on sale by Amazon. Here is a link for it. \n  https://www.amazon.in/s/?ie=UTF8&keywords=moto+g5s+plus&tag=googinhydr1-21&index=electronics&hvadid=214286329379&hvpos=1t1&hvnetw=g&hvrand=10713645254298958525&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-302622694988&ref=pd_sl_6f4l7n8rdj_e" . " Xiaomi Mi A1 can also turn a nice option for you in your budget. Here is a link for buying it on Flipkart. \n https://www.flipkart.com/mi-a1-black-64-gb/p/itmexnsrtzhbbneg?gclid=CjwKCAjwmefOBRBJEiwAf7DstJ2XJR5GnDLZyPlJYzsr_CtyqaXTwg6lb6Hxf0Eyt0arpgGu5qWsrRoCyD4QAvD_BwE&pid=MOBEX9WXUSZVYHET&tgi=sem,1,G,3856208402,{network},{ifsearch:search},{ifcontent:content},{creative},{adposition},{matchtype},{keyword},{device},{devicemodel},{ifmobile:mobile},{placement},{target},{aceid},{param1},{param2}&semcmpid=sem_3856208402_mobiles_xiaomimia1_goog&s_kwcid=AL!739!3!225040533257!e!!!!xiaomi%20mi%20a1&ef_id=WdZSwgAABKLbd4Oa:20171009050746:s";
