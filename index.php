@@ -304,7 +304,318 @@ function operate($param1, $param2) {
     //if ($operation == "divided by") {
       //return $param1 . " divided by " . $param2 . " is " . ($param1 / $param2) . ".";
     //}
-    return "Please enter a valid range of budget. I can currently suggest you smartphones in the ranges 50000 to 10000, 10000 to 15000, 15000 to 25000, 25000 to 30000, 30000 to 40000, and above 40000.";
+    return "Heyy there.. Sorryyy.... 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    \n\n
+    \n\n
+    \n\n
+    \n\n
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    😥
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    \n
+    \n
+    \n
+    \n
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    \n
+    \n
+    \n
+    \n
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    \nPlease enter a valid range of budget. I can currently suggest you smartphones in the ranges 50000 to 10000, 10000 to 15000, 
+    15000 to 25000, 25000 to 30000, 30000 to 40000, and above 40000.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    \n\n
+    \n\n
+    \n\n
+    \n\n
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    👩‍💻
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    \n
+    \n
+    \n
+    \n
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    \n
+    \n
+    \n
+    \n
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    \n";
   }
   $json = file_get_contents('php://input');
   $input = json_decode($json, true);
