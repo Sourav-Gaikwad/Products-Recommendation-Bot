@@ -132,7 +132,7 @@ function operate($param1, $param2) {
       \n\n\n
       \n
       \nIt is also available on sale by Amazon. Here is a link for it. \n https://www.amazon.in/s/?ie=UTF8&keywords=amazon+4a+mobile&tag=googinhydr1-21&index=aps&hvadid=213875163077&hvpos=1t2&hvnetw=g&hvrand=1728756147092385181&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-329893241182&ref=pd_sl_1kde0lhvg9_b" . "\n 
-      \n\nBe prepared on time on the day of the sale to grab it quicky..!!
+      \nBe prepared on time on the day of the sale to grab it quicky..!!
       
       
      
