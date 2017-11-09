@@ -290,14 +290,7 @@ function operate($param1, $param2) {
       \n
       \n
       
-      
-      \n
-      \n
-      \n
-      \n
-      \n
-      \n 
-      \nMoto C Plus can also turn a nice option for you in your budget. Here is a link for buying it on Flipkart. \n 👇   \n\n\n\n\n https://www.flipkart.com/moto-c-plus-fine-gold-16-gb/p/itmeuyd6nhzycmaa?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DMAqQRI86TtrryT7KEAqgHAYSZu5JGUtSEgc1fFj-BUVTd-VQDNZSQaAvVMEALw_wcB&pid=MOBEU9WRZHRVWXTK&lid=LSTMOBEU9WRZHRVWXTKHND9HK&cmpid=content_mobile_8965229628_gmc_pla&tgi=sem%2C1%2CG%2C11214002%2Cg%2Csearch%2C%2C146618361543%2C1o3%2C%2C%2Cc%2C%2C%2C%2C%2C%2C%2C&s_kwcid=AL%21739%213%21146618361543%21%21%21g%21273702275410%21&ef_id=WfwtQQAAAfk1d51Q%3A20171109155441%3As \n 
+      \nMoto C Plus can also turn a nice option for you in your budget. Here is a link for buying it on Flipkart. \n 👇   \n\n https://www.flipkart.com/moto-c-plus-fine-gold-16-gb/p/itmeuyd6nhzycmaa?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DMAqQRI86TtrryT7KEAqgHAYSZu5JGUtSEgc1fFj-BUVTd-VQDNZSQaAvVMEALw_wcB&pid=MOBEU9WRZHRVWXTK&lid=LSTMOBEU9WRZHRVWXTKHND9HK&cmpid=content_mobile_8965229628_gmc_pla&tgi=sem%2C1%2CG%2C11214002%2Cg%2Csearch%2C%2C146618361543%2C1o3%2C%2C%2Cc%2C%2C%2C%2C%2C%2C%2C&s_kwcid=AL%21739%213%21146618361543%21%21%21g%21273702275410%21&ef_id=WfwtQQAAAfk1d51Q%3A20171109155441%3As \n 
       
       
       
