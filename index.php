@@ -1497,7 +1497,7 @@ function operate($param1, $param2) {
       ";
      }
     
-    if ((($param1 >= 14000) && ($param1 <= 15000)) || (($param1 == 10000) && ($param2 == 15000))) {
+    if ((($param1 >= 14101) && ($param1 <= 15000)) || (($param1 == 10000) && ($param2 == 15000))) {
      return "Hey, Moto G5 S Plus can be a good choice for you..!! 
       
       
