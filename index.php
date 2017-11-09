@@ -712,9 +712,11 @@ function operate($param1, $param2) {
       
       
       
+      
+      
      
       \n\n\n\n
-      \n\nAnd, If Battery is your highest priority, then Lenovo K6 Power can also turn a nice option for you in your budget. Here is a link for buying it from Flipkart. \n 👇   \n\n\n\n\n https://www.flipkart.com/lenovo-k6-power-gold-32-gb/p/itmezenfhm4mvptw?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DOZWZCasJj4yYqq7Pz7fJvrmfWuPRSd25SZNBxykMm058y-gCcohHAaAj-hEALw_wcB&pid=MOBEZEMYH7FQBGBQ&lid=LSTMOBEZEMYH7FQBGBQRHVU0S&cmpid=content_mobile_8965229628_gmc_pla&tgi=sem%2C1%2CG%2C11214002%2Cg%2Csearch%2C%2C146618361543%2C1o2%2C%2C%2Cc%2C%2C%2C%2C%2C%2C%2C&s_kwcid=AL%21739%213%21146618361543%21%21%21g%21273702275410%21&ef_id=WfwtQQAAAfk1d51Q%3A20171109164043%3As \n 
+      \nAnd, If Battery is your highest priority, then Lenovo K6 Power can also turn a nice option for you in your budget. Here is a link for buying it from Flipkart. \n 👇   \n\n\n\n\n https://www.flipkart.com/lenovo-k6-power-gold-32-gb/p/itmezenfhm4mvptw?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DOZWZCasJj4yYqq7Pz7fJvrmfWuPRSd25SZNBxykMm058y-gCcohHAaAj-hEALw_wcB&pid=MOBEZEMYH7FQBGBQ&lid=LSTMOBEZEMYH7FQBGBQRHVU0S&cmpid=content_mobile_8965229628_gmc_pla&tgi=sem%2C1%2CG%2C11214002%2Cg%2Csearch%2C%2C146618361543%2C1o2%2C%2C%2Cc%2C%2C%2C%2C%2C%2C%2C&s_kwcid=AL%21739%213%21146618361543%21%21%21g%21273702275410%21&ef_id=WfwtQQAAAfk1d51Q%3A20171109164043%3As \n 
       
       
       
