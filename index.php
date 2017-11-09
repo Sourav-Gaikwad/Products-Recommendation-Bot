@@ -1,6 +1,6 @@
 <?
 function operate($param1, $param2) {
-    if (($param1 == 5000) && ($param2 == 10000)) {
+    if (($param1 >= 4900) && ($param2 <= 10000)) {
       return "Hey, Redmi 4A can be a good choice for you. The most attractive feature of this phone is- 2GB RAM (For 16-GB variant) \n 3GB Ram (for 32-GB variant) \n So this is the best suitable choice for you in this range..!! 
       
       
@@ -293,13 +293,143 @@ function operate($param1, $param2) {
      
      \n ";
     }
-    if (($param1 == 10000) && ($param2 == 15000)) {
-      return "Hey, Moto G5 S Plus can be a good choice for you. It is available on sale by Amazon. Here is a link for it. \n  https://www.amazon.in/s/?ie=UTF8&keywords=moto+g5s+plus&tag=googinhydr1-21&index=electronics&hvadid=214286329379&hvpos=1t1&hvnetw=g&hvrand=10713645254298958525&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-302622694988&ref=pd_sl_6f4l7n8rdj_e" . " Xiaomi Mi A1 can also turn a nice option for you in your budget. Here is a link for buying it on Flipkart. \n https://www.flipkart.com/mi-a1-black-64-gb/p/itmexnsrtzhbbneg?gclid=CjwKCAjwmefOBRBJEiwAf7DstJ2XJR5GnDLZyPlJYzsr_CtyqaXTwg6lb6Hxf0Eyt0arpgGu5qWsrRoCyD4QAvD_BwE&pid=MOBEX9WXUSZVYHET&tgi=sem,1,G,3856208402,{network},{ifsearch:search},{ifcontent:content},{creative},{adposition},{matchtype},{keyword},{device},{devicemodel},{ifmobile:mobile},{placement},{target},{aceid},{param1},{param2}&semcmpid=sem_3856208402_mobiles_xiaomimia1_goog&s_kwcid=AL!739!3!225040533257!e!!!!xiaomi%20mi%20a1&ef_id=WdZSwgAABKLbd4Oa:20171009050746:s";
+    if (($param1 >= 10000) && ($param2 <= 15000)) {
+      return "Hey, Moto G5 S Plus can turn a good choice for you. 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n
+      
+      
+      \n
+      \n
+      \n
+      💁
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n
+      
+      
+      \n
+      \n
+      \n
+      
+      
+      
+      
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      
+      
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n It is available on sale by Amazon. Here is a link for it. \n https://www.amazon.in/s/?ie=UTF8&keywords=moto+g5s+plus&tag=googinhydr1-21&index=electronics&hvadid=214286329379&hvpos=1t1&hvnetw=g&hvrand=10713645254298958525&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-302622694988&ref=pd_sl_6f4l7n8rdj_e" . "\n\n\n\n\n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n\n\n
+      \n
+      \nXiaomi Mi A1 can also turn a nice option for you in your budget. Here is a link for buying it on Flipkart. \n https://www.flipkart.com/mi-a1-black-64-gb/p/itmexnsrtzhbbneg?gclid=CjwKCAjwmefOBRBJEiwAf7DstJ2XJR5GnDLZyPlJYzsr_CtyqaXTwg6lb6Hxf0Eyt0arpgGu5qWsrRoCyD4QAvD_BwE&pid=MOBEX9WXUSZVYHET&tgi=sem,1,G,3856208402,{network},{ifsearch:search},{ifcontent:content},{creative},{adposition},{matchtype},{keyword},{device},{devicemodel},{ifmobile:mobile},{placement},{target},{aceid},{param1},{param2}&semcmpid=sem_3856208402_mobiles_xiaomimia1_goog&s_kwcid=AL!739!3!225040533257!e!!!!xiaomi%20mi%20a1&ef_id=WdZSwgAABKLbd4Oa:20171009050746:s\n       
     }
         
     //if ($operation == "times") {
       // return $param1 . " times " . $param2 . " is " . ($param1 * $param2) . ".";
-       #return "https://www.amazon.in/Moto-Plus-Lunar-Grey-64GB/dp/B071HWTHPH/ref=sr_1_1?ie=UTF8&qid=1507370524&sr=8-1&keywords=moto+g5+s+plus";
+       //return "https://www.amazon.in/Moto-Plus-Lunar-Grey-64GB/dp/B071HWTHPH/ref=sr_1_1?ie=UTF8&qid=1507370524&sr=8-1&keywords=moto+g5+s+plus";
     //}
     //if ($operation == "divided by") {
       //return $param1 . " divided by " . $param2 . " is " . ($param1 / $param2) . ".";
