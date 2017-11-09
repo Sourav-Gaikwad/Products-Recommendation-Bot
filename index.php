@@ -2174,7 +2174,7 @@ function operate($param1, $param2) {
       \n\n\n
       \n
       \nIt is also available on Flipkart. Here is a link for it. \n 👇   \n\n https://www.flipkart.com/apple-iphone-se-rose-gold-32-gb/p/itmetm9fyy3n7zfz  \n 
-      \n ....n they say, ""If you don't have an iPhone, well, you don't have an iPhone..!!""
+      \n ....n they say, \"If you don't have an iPhone, well, you don't have an iPhone..!!\"
       
      
      
