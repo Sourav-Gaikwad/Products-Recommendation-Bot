@@ -533,7 +533,7 @@ function operate($param1, $param2) {
       \n
       \n
       \n
-      \n It is available on sale by Flipkart. Here is a link for it. \n 👇  \n\n https://www.flipkart.com/samsung-galaxy-on7-gold-8-gb/p/itmeuyd9c5adb58r?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DNBI0QZxQ3ekkndBIgtRHnh9-ZFAa5QiYvl1Wo6KYxyehfOaLu_R3oaAoAQEALw_wcB&pid=MOBECCA5Y5HBYR3Q&semcmpid=sem_3856208402_mobiles_samsungon7_goog&s_kwcid=AL!739!3!221867648303!e!!g!!samsung%20galaxy%20on7&ef_id=WfwtQQAAAfk1d51Q:20171109161045:s\n"
+      \n It is available on sale by Flipkart. Here is a link for it. \n 👇  \n\n https://www.flipkart.com/samsung-galaxy-on7-gold-8-gb/p/itmeuyd9c5adb58r?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DNBI0QZxQ3ekkndBIgtRHnh9-ZFAa5QiYvl1Wo6KYxyehfOaLu_R3oaAoAQEALw_wcB&pid=MOBECCA5Y5HBYR3Q&semcmpid=sem_3856208402_mobiles_samsungon7_goog&s_kwcid=AL!739!3!221867648303!e!!g!!samsung%20galaxy%20on7&ef_id=WfwtQQAAAfk1d51Q:20171109161045:s  \n";
      }
     if ((($param1 >= 10000) && ($param1 <= 15000)) || (($param1 == 10000) && ($param2 == 15000))) {
      return "Hey, Moto G5 S Plus can be a good choice for you..!! 
