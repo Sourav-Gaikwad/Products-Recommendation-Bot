@@ -811,6 +811,102 @@ function operate($param1, $param2) {
      
      
       
+      \n And, If Camera is your highest priority, then Honor 5X can also turn a nice option for you in your budget. Here is a link for buying it from Amazon. \n 👇   \n\n\n\n\n https://www.amazon.in/Huawei-Honor-5X-Gold-16GB/dp/B01ABYRNLI?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=ea041e10-a81e-4412-a7b6-d5717a8cb8e1 \n 
+      
+      
+      
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     \n\n
+     \n\n
+     \n\n
+     \n\n
+     
+     
+     
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+      
+     
       😊
       ";
      }
