@@ -537,7 +537,7 @@ function operate($param1, $param2) {
      }
     
     if (($param1 >= 8500) && ($param1 <= 9900)) {
-     return "Hey, Xiaomi Redmi 4 (32 GB variant) can be a good choice for you for this price..!!
+     return "Hey, Xiaomi Redmi 4 (32 GB variant) can be a good choice for you in this price..!!
           
       
       
