@@ -1941,6 +1941,8 @@ function operate($param1, $param2) {
       \n\n\n\n\n\n\n
       \n\n\n\n\n\n
       
+      
+     
       \n\n\n\n
       \nIf you like to use big-size or phablet-sized smartphones, then Xiaomi Mi Max 2 (64 GB variant) can also turn a nice option for you in your budget. Here is a link for buying it from Flipkart. \n 👇   \n\n\n https://www.flipkart.com/mi-max-2-black-64-gb/p/itmevkftufr4d5e2?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DOL1gvabFy6dqdYjYyRjQEEFamYW-abC5W6Mv0Wi6OELe9MifoP-HIaAq0-EALw_wcB&pid=MOBEVKFTCFFU2FE7&lid=LSTMOBEVKFTCFFU2FE7DY06NZ&cmpid=content_mobile_8965229628_gmc_pla&tgi=sem%2C1%2CG%2C11214002%2Cg%2Csearch%2C%2C54107255300%2C1o1%2C%2C%2Cc%2C%2C%2C%2C%2C%2C%2C&s_kwcid=AL%21739%213%2154107255300%21%21%21g%21339227237256%21&ef_id=WfwtQQAAAfk1d51Q%3A20171109172503%3As \n
       \n
