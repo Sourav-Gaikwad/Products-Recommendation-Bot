@@ -290,7 +290,7 @@ function operate($param1, $param2) {
       \n
       \n
       
-      \nMoto C Plus can also turn a nice option for you in your budget. Here is a link for buying it on Flipkart. \n 👇   \n\n https://www.flipkart.com/moto-c-plus-fine-gold-16-gb/p/itmeuyd6nhzycmaa?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DMAqQRI86TtrryT7KEAqgHAYSZu5JGUtSEgc1fFj-BUVTd-VQDNZSQaAvVMEALw_wcB&pid=MOBEU9WRZHRVWXTK&lid=LSTMOBEU9WRZHRVWXTKHND9HK&cmpid=content_mobile_8965229628_gmc_pla&tgi=sem%2C1%2CG%2C11214002%2Cg%2Csearch%2C%2C146618361543%2C1o3%2C%2C%2Cc%2C%2C%2C%2C%2C%2C%2C&s_kwcid=AL%21739%213%21146618361543%21%21%21g%21273702275410%21&ef_id=WfwtQQAAAfk1d51Q%3A20171109155441%3As \n 
+      \nMoto C Plus can also turn a nice option for you in your budget. Here is a link for buying it from Flipkart. \n 👇   \n\n https://www.flipkart.com/moto-c-plus-fine-gold-16-gb/p/itmeuyd6nhzycmaa?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DMAqQRI86TtrryT7KEAqgHAYSZu5JGUtSEgc1fFj-BUVTd-VQDNZSQaAvVMEALw_wcB&pid=MOBEU9WRZHRVWXTK&lid=LSTMOBEU9WRZHRVWXTKHND9HK&cmpid=content_mobile_8965229628_gmc_pla&tgi=sem%2C1%2CG%2C11214002%2Cg%2Csearch%2C%2C146618361543%2C1o3%2C%2C%2Cc%2C%2C%2C%2C%2C%2C%2C&s_kwcid=AL%21739%213%21146618361543%21%21%21g%21273702275410%21&ef_id=WfwtQQAAAfk1d51Q%3A20171109155441%3As \n 
       
       
       
@@ -533,8 +533,157 @@ function operate($param1, $param2) {
       \n
       \n
       \n
-      \n It is available on sale by Flipkart. Here is a link for it. \n 👇  \n\n https://www.flipkart.com/samsung-galaxy-on7-gold-8-gb/p/itmeuyd9c5adb58r?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DNBI0QZxQ3ekkndBIgtRHnh9-ZFAa5QiYvl1Wo6KYxyehfOaLu_R3oaAoAQEALw_wcB&pid=MOBECCA5Y5HBYR3Q&semcmpid=sem_3856208402_mobiles_samsungon7_goog&s_kwcid=AL!739!3!221867648303!e!!g!!samsung%20galaxy%20on7&ef_id=WfwtQQAAAfk1d51Q:20171109161045:s  \n";
+      \n It is available on Flipkart. Here is a link for it. \n 👇  \n\n https://www.flipkart.com/samsung-galaxy-on7-gold-8-gb/p/itmeuyd9c5adb58r?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DNBI0QZxQ3ekkndBIgtRHnh9-ZFAa5QiYvl1Wo6KYxyehfOaLu_R3oaAoAQEALw_wcB&pid=MOBECCA5Y5HBYR3Q&semcmpid=sem_3856208402_mobiles_samsungon7_goog&s_kwcid=AL!739!3!221867648303!e!!g!!samsung%20galaxy%20on7&ef_id=WfwtQQAAAfk1d51Q:20171109161045:s  \n";
      }
+    
+    if (($param1 >= 8500) && ($param1 <= 9900)) {
+     return "Hey, Xiaomi Redmi 4 (32 GB variant) can be a good choice for you for this price..!!
+          
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n
+      
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+      💁
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n
+      
+      
+      \n
+      \n
+      \n
+      
+      
+      
+      
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      
+      
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n It is available on Amazon. Here is a link for it. \n 👇  \n\n https://www.amazon.in/Redmi-4-Black-32-GB/dp/B01NAKU5HE?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=ea041e10-a81e-4412-a7b6-d5717a8cb8e1  \n";
+     }
+    
     if ((($param1 >= 10000) && ($param1 <= 15000)) || (($param1 == 10000) && ($param2 == 15000))) {
      return "Hey, Moto G5 S Plus can be a good choice for you..!! 
       
@@ -679,7 +828,7 @@ function operate($param1, $param2) {
       \n
       \n
       \n
-      \n It is available on sale by Amazon. Here is a link for it. \n 👇  \n\n https://www.amazon.in/s/?ie=UTF8&keywords=moto+g5s+plus&tag=googinhydr1-21&index=electronics&hvadid=214286329379&hvpos=1t1&hvnetw=g&hvrand=10713645254298958525&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-302622694988&ref=pd_sl_6f4l7n8rdj_e" . "\n\n\n\n\n
+      \n It is available on Amazon. Here is a link for it. \n 👇  \n\n https://www.amazon.in/s/?ie=UTF8&keywords=moto+g5s+plus&tag=googinhydr1-21&index=electronics&hvadid=214286329379&hvpos=1t1&hvnetw=g&hvrand=10713645254298958525&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-302622694988&ref=pd_sl_6f4l7n8rdj_e" . "\n\n\n\n\n
       \n
       \n
       \n
@@ -708,7 +857,7 @@ function operate($param1, $param2) {
       \n\n\n\n\n\n
       
       \n\n\n\n
-      \nXiaomi Mi A1 can also turn a nice option for you in your budget. Here is a link for buying it on Flipkart. \n 👇   \n\n\n\n\n https://www.flipkart.com/mi-a1-black-64-gb/p/itmexnsrtzhbbneg?gclid=CjwKCAjwmefOBRBJEiwAf7DstJ2XJR5GnDLZyPlJYzsr_CtyqaXTwg6lb6Hxf0Eyt0arpgGu5qWsrRoCyD4QAvD_BwE&pid=MOBEX9WXUSZVYHET&tgi=sem,1,G,3856208402,{network},{ifsearch:search},{ifcontent:content},{creative},{adposition},{matchtype},{keyword},{device},{devicemodel},{ifmobile:mobile},{placement},{target},{aceid},{param1},{param2}&semcmpid=sem_3856208402_mobiles_xiaomimia1_goog&s_kwcid=AL!739!3!225040533257!e!!!!xiaomi%20mi%20a1&ef_id=WdZSwgAABKLbd4Oa:20171009050746:s \n 
+      \nXiaomi Mi A1 can also turn a nice option for you in your budget. Here is a link for buying it from Flipkart. \n 👇   \n\n\n\n\n https://www.flipkart.com/mi-a1-black-64-gb/p/itmexnsrtzhbbneg?gclid=CjwKCAjwmefOBRBJEiwAf7DstJ2XJR5GnDLZyPlJYzsr_CtyqaXTwg6lb6Hxf0Eyt0arpgGu5qWsrRoCyD4QAvD_BwE&pid=MOBEX9WXUSZVYHET&tgi=sem,1,G,3856208402,{network},{ifsearch:search},{ifcontent:content},{creative},{adposition},{matchtype},{keyword},{device},{devicemodel},{ifmobile:mobile},{placement},{target},{aceid},{param1},{param2}&semcmpid=sem_3856208402_mobiles_xiaomimia1_goog&s_kwcid=AL!739!3!225040533257!e!!!!xiaomi%20mi%20a1&ef_id=WdZSwgAABKLbd4Oa:20171009050746:s \n 
       
       
       
