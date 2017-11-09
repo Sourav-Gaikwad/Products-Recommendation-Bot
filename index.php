@@ -389,7 +389,7 @@ function operate($param1, $param2) {
       ";
     }
     if (($param1 >= 7500) && ($param1 <= 8500)) {
-     return "Hey, Samsung Galaxy On7 can be a good choice for you..!!
+     return "Hey, if you are a Samsung lover, the Samsung Galaxy On7 can be a good choice for you..!!
           
       
       
@@ -536,7 +536,7 @@ function operate($param1, $param2) {
       \n It is available on Flipkart. Here is a link for it. \n 👇  \n\n https://www.flipkart.com/samsung-galaxy-on7-gold-8-gb/p/itmeuyd9c5adb58r?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DNBI0QZxQ3ekkndBIgtRHnh9-ZFAa5QiYvl1Wo6KYxyehfOaLu_R3oaAoAQEALw_wcB&pid=MOBECCA5Y5HBYR3Q&semcmpid=sem_3856208402_mobiles_samsungon7_goog&s_kwcid=AL!739!3!221867648303!e!!g!!samsung%20galaxy%20on7&ef_id=WfwtQQAAAfk1d51Q:20171109161045:s  \n";
      }
     
-    if (($param1 >= 8500) && ($param1 <= 9900)) {
+    if (($param1 >= 8500) && ($param1 <= 10000)) {
      return "Hey, Xiaomi Redmi 4 (32 GB variant) can be a good choice for you in this price..!!
           
       
@@ -681,7 +681,132 @@ function operate($param1, $param2) {
       \n
       \n
       \n
-      \n It is available on Amazon. Here is a link for it. \n 👇  \n\n https://www.amazon.in/Redmi-4-Black-32-GB/dp/B01NAKU5HE?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=ea041e10-a81e-4412-a7b6-d5717a8cb8e1  \n";
+      \n It is available on Amazon. Here is a link for it. \n 👇  \n\n https://www.amazon.in/Redmi-4-Black-32-GB/dp/B01NAKU5HE?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=ea041e10-a81e-4412-a7b6-d5717a8cb8e1  \n\n\n\n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n\n\n
+      \n
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      \n\n\n\n\n\n
+      \n\n\n\n\n\n
+      \n\n\n\n\n\n\n
+      \n\n\n\n\n\n
+      
+      \n\n\n\n
+      \nAnd, If Battery is your highest priority, then Lenovo K6 Power can also turn a nice option for you in your budget. Here is a link for buying it from Flipkart. \n 👇   \n\n\n\n\n https://www.flipkart.com/lenovo-k6-power-gold-32-gb/p/itmezenfhm4mvptw?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DOZWZCasJj4yYqq7Pz7fJvrmfWuPRSd25SZNBxykMm058y-gCcohHAaAj-hEALw_wcB&pid=MOBEZEMYH7FQBGBQ&lid=LSTMOBEZEMYH7FQBGBQRHVU0S&cmpid=content_mobile_8965229628_gmc_pla&tgi=sem%2C1%2CG%2C11214002%2Cg%2Csearch%2C%2C146618361543%2C1o2%2C%2C%2Cc%2C%2C%2C%2C%2C%2C%2C&s_kwcid=AL%21739%213%21146618361543%21%21%21g%21273702275410%21&ef_id=WfwtQQAAAfk1d51Q%3A20171109164043%3As \n 
+      
+      
+      
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     \n\n
+     \n\n
+     \n\n
+     \n\n
+     
+     
+     
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     \n
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+      
+      😊
+      ";
      }
     
     if ((($param1 >= 10000) && ($param1 <= 15000)) || (($param1 == 10000) && ($param2 == 15000))) {
