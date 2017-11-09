@@ -520,7 +520,7 @@ function operate($param1, $param2) {
      
       
       😊
-      ; 
+     " ; 
     }
         
     //if ($operation == "times") {
