@@ -1,6 +1,6 @@
 <?
 function operate($param1, $param2) {
-    if ((($param1 >= 4900) && ($param1 <= 7000)) || (($param1 == 5000) && ($param2 == 10000))) {
+    if ((($param1 >= 4900) && ($param1 <= 7500)) || (($param1 == 5000) && ($param2 == 10000))) {
       return "Hey, Redmi 4A can be a good choice for you. The most attractive feature of this phone is- 2GB RAM (For 16-GB variant) \n 3GB Ram (for 32-GB variant) \n So this is the best suitable choice for you in this range..!! 
       
       
@@ -388,6 +388,153 @@ function operate($param1, $param2) {
       😊
       ";
     }
+    if ((($param1 >= 8500) && ($param1 <= 15000)) || (($param1 == 10000) && ($param2 == 15000))) {
+     return "Hey, Samsung Galaxy On7 can be a good choice for you..!!
+          
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n
+      
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+      💁
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n
+      
+      
+      \n
+      \n
+      \n
+      
+      
+      
+      
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      
+      
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n It is available on sale by Flipkart. Here is a link for it. \n 👇  \n\n https://www.flipkart.com/samsung-galaxy-on7-gold-8-gb/p/itmeuyd9c5adb58r?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DNBI0QZxQ3ekkndBIgtRHnh9-ZFAa5QiYvl1Wo6KYxyehfOaLu_R3oaAoAQEALw_wcB&pid=MOBECCA5Y5HBYR3Q&semcmpid=sem_3856208402_mobiles_samsungon7_goog&s_kwcid=AL!739!3!221867648303!e!!g!!samsung%20galaxy%20on7&ef_id=WfwtQQAAAfk1d51Q:20171109161045:s\n"
+     }
     if ((($param1 >= 10000) && ($param1 <= 15000)) || (($param1 == 10000) && ($param2 == 15000))) {
      return "Hey, Moto G5 S Plus can be a good choice for you..!! 
       
@@ -532,7 +679,7 @@ function operate($param1, $param2) {
       \n
       \n
       \n
-      \n It is available on sale by Flipkart. It is available on sale by Amazon. Here is a link for it. \n 👇  \n\n https://www.amazon.in/s/?ie=UTF8&keywords=moto+g5s+plus&tag=googinhydr1-21&index=electronics&hvadid=214286329379&hvpos=1t1&hvnetw=g&hvrand=10713645254298958525&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-302622694988&ref=pd_sl_6f4l7n8rdj_e" . "\n\n\n\n\n
+      \n It is available on sale by Amazon. Here is a link for it. \n 👇  \n\n https://www.amazon.in/s/?ie=UTF8&keywords=moto+g5s+plus&tag=googinhydr1-21&index=electronics&hvadid=214286329379&hvpos=1t1&hvnetw=g&hvrand=10713645254298958525&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007790&hvtargid=kwd-302622694988&ref=pd_sl_6f4l7n8rdj_e" . "\n\n\n\n\n
       \n
       \n
       \n
@@ -659,14 +806,7 @@ function operate($param1, $param2) {
       😊
      " ; 
     }
-        
-    //if ($operation == "times") {
-      // return $param1 . " times " . $param2 . " is " . ($param1 * $param2) . ".";
-       #return "https://www.amazon.in/Moto-Plus-Lunar-Grey-64GB/dp/B071HWTHPH/ref=sr_1_1?ie=UTF8&qid=1507370524&sr=8-1&keywords=moto+g5+s+plus";
-    //}
-    //if ($operation == "divided by") {
-      //return $param1 . " divided by " . $param2 . " is " . ($param1 / $param2) . ".";
-    //}
+           
     return "Heyy there.. Sorryyy.... 
     
     
