@@ -716,7 +716,7 @@ function operate($param1, $param2) {
       
      
       \n\n\n\n
-      \n And, If Camera is your highest priority, then Honor 5X can also turn a nice option for you in your budget. Here is a link for buying it from Amazon. \n 👇   \n\n\n\n\n https://www.amazon.in/Huawei-Honor-5X-Gold-16GB/dp/B01ABYRNLI?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=ea041e10-a81e-4412-a7b6-d5717a8cb8e1 \n 
+      \n And, If Camera is your highest priority, then Honor 6X (32 GB variant) can also turn a nice option for you in your budget. Here is a link for buying it from Amazon. \n 👇   \n\n\n\n\n https://www.flipkart.com/honor-6x-gold-32-gb/p/itmexczyddznvhd2?pid=MOBEWA9MNQZYQPHZ&srno=b_1_3&otracker=browse&lid=LSTMOBEWA9MNQZYQPHZXKJUHP&iid=012acc4f-64f7-4932-ba86-7fa177aeb608.MOBEWA9MNQZYQPHZ.SEARCH \n 
       
       
       
@@ -1091,7 +1091,7 @@ function operate($param1, $param2) {
       
      
       \n\n\n\n
-      \n And, If Camera is your highest priority and you are Ok with Hybrid Sim Slot, then Honor 6X (32 GB variant) can also turn a nice option for you in your budget. Here is a link for buying it from Flipkart. \n 👇   \n\n\n\n\n https://www.flipkart.com/honor-6x-silver-32-gb/p/itmexczyddznvhd2?pid=MOBEWA9MFBMZD4Y7&srno=b_1_4&otracker=browse&lid=LSTMOBEWA9MFBMZD4Y7AHAYJL&iid=59076c01-952b-4ba0-bee6-7aca1542bd92.MOBEWA9MFBMZD4Y7.SEARCH \n 
+      \n And, If Camera is your highest priority and you are Ok with Hybrid Sim Slot, then Honor 6X (64 GB variant) can also turn a nice option for you in your budget. Here is a link for buying it from Flipkart. \n 👇   \n\n\n\n\n https://www.flipkart.com/honor-6x-silver-64-gb/p/itmexczyddznvhd2?pid=MOBEWA9MCCHK9MRS&srno=b_1_2&otracker=browse&lid=LSTMOBEWA9MCCHK9MRSVZCCVL&iid=01c13cc0-2387-4e23-ac4e-a65998e178af.MOBEWA9MCCHK9MRS.SEARCH \n 
       
       
       
