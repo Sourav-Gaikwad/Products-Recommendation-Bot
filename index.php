@@ -1056,7 +1056,7 @@ function operate($param1, $param2) {
       \n
       \n
       \n
-      \n It is available on Amazon. Here is a link for it. \n 👇  \n\n https://www.flipkart.com/redmi-note-4-black-32-gb/p/itmeqe4htst9587b?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DPQR82q3sd3l8hf0PWgsfft5E4GCPrIVf2crwW-JBFxk-K-X_kh3LEaAkd-EALw_wcB&pid=MOBEQ98THNGR4FD5&lid=LSTMOBEQ98THNGR4FD5V3OUHB&cmpid=content_mobile_8965229628_gmc_pla&tgi=sem%2C1%2CG%2C11214002%2Cg%2Csearch%2C%2C54107255300%2C1o2%2C%2C%2Cc%2C%2C%2C%2C%2C%2C%2C&s_kwcid=AL%21739%213%2154107255300%21%21%21g%21339227237256%21&ef_id=WfwtQQAAAfk1d51Q%3A20171109172707%3As  \n\n\n\n
+      \n It is available on Flipkart. Here is a link for it. \n 👇  \n\n https://www.flipkart.com/redmi-note-4-black-32-gb/p/itmeqe4htst9587b?gclid=Cj0KCQiAlpDQBRDmARIsAAW6-DPQR82q3sd3l8hf0PWgsfft5E4GCPrIVf2crwW-JBFxk-K-X_kh3LEaAkd-EALw_wcB&pid=MOBEQ98THNGR4FD5&lid=LSTMOBEQ98THNGR4FD5V3OUHB&cmpid=content_mobile_8965229628_gmc_pla&tgi=sem%2C1%2CG%2C11214002%2Cg%2Csearch%2C%2C54107255300%2C1o2%2C%2C%2Cc%2C%2C%2C%2C%2C%2C%2C&s_kwcid=AL%21739%213%2154107255300%21%21%21g%21339227237256%21&ef_id=WfwtQQAAAfk1d51Q%3A20171109172707%3As  \n\n\n\n
       \n
       \n
       \n
@@ -1254,6 +1254,217 @@ function operate($param1, $param2) {
      \n
      \n
      \n
+     \n
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+      
+      
+      😊
+      ";
+     }
+     if (($param1 >= 12000) && ($param1 <= 14100)) {
+     return "Hey, if you like big-size or phablet-sized smartphones, then Xiaomi Mi Max 2 (32 GB variant) can be a good choice for you in this price..!!
+          
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n
+      
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+      💁
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n\n\n\n
+      \n
+      
+      
+      \n
+      \n
+      \n
+      
+      
+      
+      
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n
+      
+      
+      \n
+      \n
+      \n
+      \n
+      \n
+      \n It is available on Amazon. Here is a link for it. \n 👇  \n\n https://www.amazon.in/Mi-Max-2-Black-32GB/dp/B0756RFBL7?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=ea041e10-a81e-4412-a7b6-d5717a8cb8e1  \n\n\n\n
+      
+      
+      
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+   
+     
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
      \n
      
      
