@@ -333,6 +333,9 @@ function operate($param1, $param2) {
       
       
       
+      
+      
+      
       \n\n\n\n
       \n\n\n\n
       \n\n\n\n
@@ -341,12 +344,12 @@ function operate($param1, $param2) {
       \n
       
       
-      \n
-      \n
-      \n
-      \n
-      \n
-      \n
+      \n\n\n\n\n
+      \n\n\n\n\n\n
+      \n\n\n\n\n\n\n
+      \n\n\n\n\n\n\n\n
+      \n\n\n\n\n\n\n\n\n
+      \n\n\n\n\n\n\n
       💁
        
       
@@ -427,6 +430,24 @@ function operate($param1, $param2) {
       \n
       \n\n\n
       \n
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      \n\n\n\n\n\n
+      \n\n\n\n\n\n\
+      \n\n\n\n\n\n\n
+      \n\n\n\n\n\n
+      
+      \n\n\n\n
       \nXiaomi Mi A1 can also turn a nice option for you in your budget. Here is a link for buying it on Flipkart. \n https://www.flipkart.com/mi-a1-black-64-gb/p/itmexnsrtzhbbneg?gclid=CjwKCAjwmefOBRBJEiwAf7DstJ2XJR5GnDLZyPlJYzsr_CtyqaXTwg6lb6Hxf0Eyt0arpgGu5qWsrRoCyD4QAvD_BwE&pid=MOBEX9WXUSZVYHET&tgi=sem,1,G,3856208402,{network},{ifsearch:search},{ifcontent:content},{creative},{adposition},{matchtype},{keyword},{device},{devicemodel},{ifmobile:mobile},{placement},{target},{aceid},{param1},{param2}&semcmpid=sem_3856208402_mobiles_xiaomimia1_goog&s_kwcid=AL!739!3!225040533257!e!!!!xiaomi%20mi%20a1&ef_id=WdZSwgAABKLbd4Oa:20171009050746:s \n 
       
       
