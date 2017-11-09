@@ -2189,9 +2189,8 @@ function operate($param1, $param2) {
       
       
       
-      \n It is available on Amazon. Here is a link for it. \n 👇   \n\n https://www.amazon.in/Apple-iPhone-SE-Space-Grey/dp/B071DF166C?tag=googinkenshoo-21&ascsubtag=ea041e10-a81e-4412-a7b6-d5717a8cb8e1&th=1  \n\n\n\n\n
-      \n
-      \nIt is also available on Flipkart. Here is a link for it. \n 👇   \n\n https://www.flipkart.com/apple-iphone-se-rose-gold-32-gb/p/itmetm9fyy3n7zfz  \n 
+      \n It is available on Amazon. Here is a link for it. \n 👇   \n\n https://www.amazon.in/Apple-iPhone-SE-Space-Grey/dp/B071DF166C?tag=googinkenshoo-21&ascsubtag=ea041e10-a81e-4412-a7b6-d5717a8cb8e1&th=1  \n\n\n
+      It is also available on Flipkart. Here is a link for it. \n 👇   \n\n https://www.flipkart.com/apple-iphone-se-rose-gold-32-gb/p/itmetm9fyy3n7zfz  \n 
       \n
       
       
