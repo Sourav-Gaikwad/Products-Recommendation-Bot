@@ -2694,13 +2694,10 @@ function operate($param1, $param2) {
   $input = json_decode($json, true);
   $parameters = $input["result"]["parameters"];
   $number1 = (int)$parameters["number-integer1"];
-  $number2 = (int)$parameters["number-integer2"];
-  #$operation = $parameters["operation"];
-  #$outString = operate($number1, $number2, $operation);
+  $number2 = (int)$parameters["number-integer2"];  
   $outString = operate($number1, $number2);
   header("Content-type: application/json");
-  $out = array(
-    "speech" => $outString,
+  $out = array(    
     "displayText" => $outString,
     "source" => "agent"
   );
