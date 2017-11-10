@@ -2698,6 +2698,7 @@ function operate($param1, $param2) {
   $outString = operate($number1, $number2);
   header("Content-type: application/json");
   $out = array(    
+    "speech" => $outString,
     "displayText" => $outString,
     "source" => "agent"
   );
