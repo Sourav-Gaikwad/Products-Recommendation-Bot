@@ -338,7 +338,7 @@ function operate($param1, $param2) {
       
       😊
       ";
-     return $response;
+     return;
     }
     if (($param1 >= 7500) && ($param1 <= 8500)) {
      return "Hey, if you are a Samsung lover, the Samsung Galaxy On7 can be a good choice for you..!!
