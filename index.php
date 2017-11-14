@@ -1,7 +1,7 @@
 <?php
-function operate($param1, $param2) 
+function operate($param1, $param2, $param3) 
 {
-    if ((($param1 >= 1) && ($param1 <= 9)) && ($param2 == null)) 
+    if ((($param1 >= 1) && ($param1 <= 9)) && (($param2 == null) && (($param3 == "thousand") || ($param3 == "thousands")))) 
     {
         $param1 = $param1 * 1000;
     }
@@ -116,8 +116,9 @@ function operate($param1, $param2)
   $input = json_decode($json, true);
   $parameters = $input["result"]["parameters"];
   $number1 = (int)$parameters["number-integer1"];
-  $number2 = (int)$parameters["number-integer2"];  
-  $outString = operate($number1, $number2);
+  $number2 = (int)$parameters["number-integer2"];
+  $other = $parameters["any"];
+  $outString = operate($number1, $number2, $other);
   header("Content-type: application/json");
   $out = array(    
     "speech" => $outString,
